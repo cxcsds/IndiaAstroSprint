@@ -38,6 +38,10 @@ or install them separately after:
 >>> activate ciao-4.14
 >>> pip install astropy
 ```
+## If use use a Mac
+You also need to have xquartz and xcode:
+https://cxc.cfa.harvard.edu/ciao/watchout.html#xquartz_xcode
+
 ## If you use a new Mac with M1 chip
 
 put `CONDA_SUBDIR=osx-64` before the command, like so:
